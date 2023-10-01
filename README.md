@@ -43,4 +43,4 @@ The following animation shows the application's POST, PUT, and DELETE routes for
 
 The following is a video walkthrough of the application's functionality:
 
-Click [here](https://drive.google.com/drive/folders/1y9Ofrz0VgfY5kRB8Ou1lUnJ4f1PKQNi7) to watch the application walkthrough.
+Click [here](https://drive.google.com/file/d/1CyAmdE42MxobwEJWkqjBlONzmSEy0cRK/view) to watch the application walkthrough.
